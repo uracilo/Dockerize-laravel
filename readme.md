@@ -1,6 +1,6 @@
 # Laravel Development with Docker
 
-I [wrote a post](https://kyleferg.com/laravel-development-with-docker/) about using Docker for your local Laravel environment.
+Using Docker for your local Laravel environment.
 This repo holds a clean Laravel install setup to use Docker which can be used as a starting point or for reference.
 
 The following is used out of the box with this setup:
